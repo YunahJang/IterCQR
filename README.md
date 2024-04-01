@@ -1,4 +1,4 @@
-#IterCQR
+# IterCQR
 
 This is the official repository of [IterCQR:Iterative Conversational Query Reformulation with Retrieval Guidance](https://arxiv.org/abs/2311.09820).
 ![overview_itercqr_github](https://github.com/YunahJang/IterCQR/assets/90023054/f2c2d22a-ec7e-4b7c-89d6-92ec82dbf5d1)
