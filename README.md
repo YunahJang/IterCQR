@@ -34,8 +34,7 @@ Refer to the provided bash scripts to train the model for TopiOCQA and QReCC.
 <h2> Model Release</h2>
 We release our trained model at the following link:
 
-https://drive.google.com/drive/folders/1ABCdVlZWYgBe-JNmbPnp5CZ-W0-fucCV?usp=drive_link
-
+https://drive.google.com/drive/folders/1i3Hw0dmUPWkny8OUbgko8IgANhl7b9St?usp=drive_link
 
 <h2> Citation</h2>
 If you use IterCQR in your research, please cite our work:
